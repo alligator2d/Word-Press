@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../word_press/fonts/Roboto-Black.eot');
+  src: url('../word_press/fonts/Roboto-Black.eot?#iefix')
+      format('embedded-opentype'),
+    url('../word_press/fonts/Roboto-Black.woff') format('woff'),
+    url('../word_press/fonts/Roboto-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../word_press/fonts/Roboto-Light.eot');
+  src: url('../word_press/fonts/?#iefix') format('embedded-opentype'),
+    url('../word_press/fonts/Roboto-Light.woff') format('woff'),
+    url('../word_press/fonts/Roboto-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
